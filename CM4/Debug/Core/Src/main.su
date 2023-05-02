@@ -1,0 +1,12 @@
+../../Drivers/STM32WLxx_HAL_Driver/Inc/stm32wlxx_ll_rcc.h:1257:22:LL_RCC_LSE_SetDriveCapability	16	static
+../../Drivers/STM32WLxx_HAL_Driver/Inc/stm32wlxx_ll_bus.h:449:22:LL_AHB2_GRP1_EnableClock	24	static
+../Core/Src/main.c:84:9:HTS221_ReadReg	40	static
+../Core/Src/main.c:93:6:HTS221_WriteReg	32	static
+../Core/Src/main.c:98:6:HTS221_Init	16	static
+../Core/Src/main.c:114:6:HTS221_ReadData	32	static
+../Core/Src/main.c:140:5:main	8	static
+../Core/Src/main.c:190:6:SystemClock_Config	112	static
+../Core/Src/main.c:240:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:288:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:336:13:MX_GPIO_Init	8	static
+../Core/Src/main.c:354:6:Error_Handler	4	static,ignoring_inline_asm

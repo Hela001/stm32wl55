@@ -1,0 +1,10 @@
+../Core/Library_files/HTS221_anklabs.c:11:9:HTS221_Dev_ID	16	static
+../Core/Library_files/HTS221_anklabs.c:19:9:HTS221_Detected	16	static
+../Core/Library_files/HTS221_anklabs.c:30:6:HTS221_I	16	static
+../Core/Library_files/HTS221_anklabs.c:47:6:HTS221_Average_func	16	static
+../Core/Library_files/HTS221_anklabs.c:73:6:HTS221_Start_conversion	8	static
+../Core/Library_files/HTS221_anklabs.c:79:9:HTS221_Data_Ready_T	16	static
+../Core/Library_files/HTS221_anklabs.c:93:9:HTS221_Data_Ready_H	16	static
+../Core/Library_files/HTS221_anklabs.c:107:9:HTS221_Data_Ready	16	static
+../Core/Library_files/HTS221_anklabs.c:120:9:HTS221_Read_temp	40	static
+../Core/Library_files/HTS221_anklabs.c:154:9:HTS221_Read_humi	48	static
